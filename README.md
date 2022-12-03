@@ -26,7 +26,7 @@
 
 ## About
 
-Lagon is a free Open Source Runtime and SaaS that make it easy to deploy TypeScript and JavaScript Serverless Functions at the Edge, using V8 Isolates. It's also self-hostable.
+Lagon is an open-source runtime and platform that allows developers to run TypeScript and JavaScript Functions at the Edge, using V8 Isolates. It's also self-hostable.
 
 > **Warning**: Lagon is still in heavy development. Do not use for production usages.
 
