@@ -1,5 +1,14 @@
 # @lagon/dashboard
 
+## 0.0.10
+
+### Patch Changes
+
+- [#351](https://github.com/lagonapp/lagon/pull/351) [`b23f359`](https://github.com/lagonapp/lagon/commit/b23f359f13fee4e6473d581843b36054fcc3673a) Thanks [@QuiiBz](https://github.com/QuiiBz)! - Use query instead of queryLegacy for axiom
+
+- Updated dependencies [[`1e0134d`](https://github.com/lagonapp/lagon/commit/1e0134d93808caaa5387905d0fb2bded64ed31e1)]:
+  - @lagon/ui@0.2.0
+
 ## 0.0.9
 
 ### Patch Changes

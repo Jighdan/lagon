@@ -1,5 +1,13 @@
 # @lagon/serverless
 
+## 0.1.12
+
+### Patch Changes
+
+- [#354](https://github.com/lagonapp/lagon/pull/354) [`2b0b265`](https://github.com/lagonapp/lagon/commit/2b0b265ce4657db96728e5a9c82eddefa4801bc9) Thanks [@QuiiBz](https://github.com/QuiiBz)! - Add LAGON_LISTEN_ADDR and PROMETHEUS_LISTEN_ADDR env variables
+
+* [#353](https://github.com/lagonapp/lagon/pull/353) [`2bf63f3`](https://github.com/lagonapp/lagon/commit/2bf63f37dd92fdb99a173af5b49033a23456f4b4) Thanks [@QuiiBz](https://github.com/QuiiBz)! - Don't use a .env file on release builds
+
 ## 0.1.11
 
 ### Patch Changes
